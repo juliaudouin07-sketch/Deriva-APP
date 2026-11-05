@@ -1,0 +1,9 @@
+Guardá en esta carpeta estas imágenes JPG con exactamente estos nombres:
+portada.jpg
+montana.jpg
+olivar.jpg
+vinedo.jpg
+fuego.jpg
+texturas.jpg
+
+La aplicación funciona sin ellas, pero muestra fondos de color.
